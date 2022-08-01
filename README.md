@@ -12,3 +12,8 @@ List of tools and os in the tool
 | --- | --- | --- | --- |
 | Windows 11 | Ubuntu 20.04.4 Focal Fossa | Norton Rescue Disk | Hiren's Boot CD |
 | Windows 10 | TinyCore Linux | Kaspersky Rescue Disk 18 | The Ultimate Boot CD |
+| NULL | Kali Mini | NULL | Arch File Explorer |
+| NULL | Ubuntu 22.04 Jammy Jellyfish | NULL | NULL |
+| NULL | Ubuntu Mini | NULL | NULL |
+| NULL | Fedora IoT | NULL | NULL |
+| NULL | Solus Budgie | NULL | NULL |
