@@ -1,4 +1,4 @@
-[Home](/readme.md) [GoyOS](/GoyOS.md)
+[Home](/README.md) [GoyOS](/GoyOS.md)
 
 
 # Welcome to Apoorva Krishna's Ultimate USB
