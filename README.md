@@ -1,4 +1,4 @@
-[Home](/README.md) [GoyOS](/GoyOS/README.md) [Downloads](/Downloads-AKUUSB/)
+[Home](/README.md) [GoyOS](/GoyOS/README.md) [Downloads](/DownloadsAKUUSB/)
 
 
 # Welcome to Apoorva Krishna's Ultimate USB
